@@ -1,0 +1,17 @@
+...trash/
+*.docx
+*.asv
+data/нов-обратно/[0-9]/**
+data/нов-обратно/[0-9][0-9]/**
+data/нов-туда/[0-9]/**
+data/нов-туда/[0-9][0-9]/**
+data/стар-обратно/[0-9]/**
+data/стар-обратно/[0-9][0-9]/**
+data/стар-туда/[0-9]/**
+data/стар-туда/[0-9][0-9]/**
+HitProcessorSettings*
+Orientation*
+ScalerSettings*
+Orientation*
+dlina_ner*
+glubina_ner*
